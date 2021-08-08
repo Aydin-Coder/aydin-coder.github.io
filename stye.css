@@ -28,6 +28,7 @@ p {
   font-family:sans-serif;
   text-align: center;
   color: #0663bc;
+  border-radius: 7px;
 }
 h2 {
   font-size: 75;
