@@ -217,6 +217,9 @@ column:nth-child(1) {
   border-right: 4px solid;
   border-radius: 16px;
 }
+column {
+  padding: 0 10px;
+}
 
 
 
